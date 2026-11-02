@@ -1,0 +1,347 @@
+[
+  {
+    "id": "barrel-01",
+    "name": "Баня-бочка «210»",
+    "price": 191000,
+    "category": "barrel",
+    "image": "assets/barrel-01.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-02",
+    "name": "Баня-бочка «210» с крыльцом",
+    "price": 209000,
+    "category": "barrel",
+    "image": "assets/barrel-02.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-03",
+    "name": "Баня-бочка «210» с навесом",
+    "price": 199000,
+    "category": "barrel",
+    "image": "assets/barrel-03.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-04",
+    "name": "Баня-бочка «300»",
+    "price": 253000,
+    "category": "barrel",
+    "image": "assets/barrel-04.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-05",
+    "name": "Баня-бочка «300» с крыльцом",
+    "price": 272000,
+    "category": "barrel",
+    "image": "assets/barrel-05.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-06",
+    "name": "Баня-бочка «300» с навесом",
+    "price": 261000,
+    "category": "barrel",
+    "image": "assets/barrel-06.png",
+    "source": "image1.png"
+  },
+  {
+    "id": "barrel-07",
+    "name": "Баня-бочка «350»",
+    "price": 270000,
+    "category": "barrel",
+    "image": "assets/barrel-07.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-08",
+    "name": "Баня-бочка «350» с крыльцом",
+    "price": 290000,
+    "category": "barrel",
+    "image": "assets/barrel-08.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-09",
+    "name": "Баня-бочка «350» с навесом",
+    "price": 281000,
+    "category": "barrel",
+    "image": "assets/barrel-09.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-10",
+    "name": "Баня-бочка «400» с боковым входом",
+    "price": 306000,
+    "category": "barrel",
+    "image": "assets/barrel-10.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-11",
+    "name": "Баня-бочка «400» с крыльцом",
+    "price": 321000,
+    "category": "barrel",
+    "image": "assets/barrel-11.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-12",
+    "name": "Баня-бочка «400» с навесом",
+    "price": 313000,
+    "category": "barrel",
+    "image": "assets/barrel-12.png",
+    "source": "image2.png"
+  },
+  {
+    "id": "barrel-13",
+    "name": "Баня-бочка «500» с крыльцом",
+    "price": 364000,
+    "category": "barrel",
+    "image": "assets/barrel-13.png",
+    "source": "image3.png"
+  },
+  {
+    "id": "barrel-14",
+    "name": "Баня-бочка «500» с навесом",
+    "price": 356000,
+    "category": "barrel",
+    "image": "assets/barrel-14.png",
+    "source": "image3.png"
+  },
+  {
+    "id": "barrel-15",
+    "name": "Баня-бочка «600» с верандой",
+    "price": 409000,
+    "category": "barrel",
+    "image": "assets/barrel-15.png",
+    "source": "image3.png"
+  },
+  {
+    "id": "barrel-16",
+    "name": "Баня-бочка «600» с крыльцом",
+    "price": 387000,
+    "category": "barrel",
+    "image": "assets/barrel-16.png",
+    "source": "image3.png"
+  },
+  {
+    "id": "quadro-01",
+    "name": "Квадробочка «300»",
+    "price": 280000,
+    "category": "quadro",
+    "image": "assets/quadro-01.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-02",
+    "name": "Квадробочка «400»",
+    "price": 319000,
+    "category": "quadro",
+    "image": "assets/quadro-02.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-03",
+    "name": "Квадробочка «400» с боковым входом",
+    "price": 338000,
+    "category": "quadro",
+    "image": "assets/quadro-03.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-04",
+    "name": "Квадробочка «400» с крыльцом",
+    "price": 341000,
+    "category": "quadro",
+    "image": "assets/quadro-04.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-05",
+    "name": "Квадробочка «400» с навесом",
+    "price": 328000,
+    "category": "quadro",
+    "image": "assets/quadro-05.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-06",
+    "name": "Квадробочка «500» с боковым входом",
+    "price": 386000,
+    "category": "quadro",
+    "image": "assets/quadro-06.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-07",
+    "name": "Квадробочка «500» с навесом",
+    "price": 394000,
+    "category": "quadro",
+    "image": "assets/quadro-07.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "quadro-08",
+    "name": "Квадробочка «600 VIP»",
+    "price": 483000,
+    "category": "quadro",
+    "image": "assets/quadro-08.png",
+    "source": "image4.png",
+    "detailImage": "assets/vip-detail.png",
+    "specs": {
+      "Общая длина": "600 см",
+      "Ширина внутри": "220 см",
+      "Высота внутри": "220 см",
+      "Длина парной": "210 см",
+      "Длина комнаты отдыха": "230 см",
+      "Длина помывочной": "120 см"
+    },
+    "equipment": [
+      "Фундамент из блоков и основание из бруса 100×100",
+      "Ступени перед входом",
+      "Дровяная печь",
+      "Бак для воды на 50 л",
+      "Дымоход в сборе из нержавеющей стали",
+      "Защита от нагрева из минерита",
+      "Крыша из гибкой черепицы (цвет на выбор)",
+      "Наружная защитная пропитка в два слоя (цвет на выбор)",
+      "Комплект электрики и освещения",
+      "Обручи из нержавеющей стали с замками для стягивания",
+      "Входная металлическая дверь с порошковым покрытием",
+      "Стеклянные двери в парную и помывочную",
+      "Слив",
+      "Двухъярусные лежаки из липы/осины в парной с угловым полоком",
+      "2 скамейки и трапик в комнате отдыха",
+      "Вешалка для одежды в комнате отдыха",
+      "Форточка в парной 30×30",
+      "Столик в комнате отдыха",
+      "Окно в комнате отдыха 60×60",
+      "1 скамейка и трапик в помывочной",
+      "Камни для печи",
+      "Рундук 120 см для вещей в комнате отдыха"
+    ]
+  },
+  {
+    "id": "quadro-09",
+    "name": "Квадробочка «600»",
+    "price": 422000,
+    "category": "quadro",
+    "image": "assets/quadro-09.png",
+    "source": "image4.png"
+  },
+  {
+    "id": "viking-01",
+    "name": "Баня ВИКИНГ «VIP»",
+    "price": 1036000,
+    "category": "viking",
+    "image": "assets/viking-01.png",
+    "source": "image5.png"
+  },
+  {
+    "id": "viking-02",
+    "name": "Баня ВИКИНГ «БАЗА»",
+    "price": 597000,
+    "category": "viking",
+    "image": "assets/viking-02.png",
+    "source": "image5.png"
+  },
+  {
+    "id": "viking-03",
+    "name": "Баня ВИКИНГ «ОПТИМА»",
+    "price": 700000,
+    "category": "viking",
+    "image": "assets/viking-03.png",
+    "source": "image5.png"
+  },
+  {
+    "id": "parus-01",
+    "name": "Баня ПАРУС",
+    "price": 551000,
+    "category": "parus",
+    "image": "assets/parus-01.png",
+    "source": "image6.png"
+  },
+  {
+    "id": "module-01",
+    "name": "Модульная баня",
+    "price": null,
+    "category": "module",
+    "image": "assets/module-01.png",
+    "source": "image7.png"
+  },
+  {
+    "id": "module-02",
+    "name": "Модульная баня с террасой",
+    "price": null,
+    "category": "module",
+    "image": "assets/module-02.png",
+    "source": "image7.png"
+  },
+  {
+    "id": "capsule-01",
+    "name": "Капсульная баня",
+    "price": 542000,
+    "category": "capsule",
+    "image": "assets/capsule-01.png",
+    "source": "image8.png"
+  },
+  {
+    "id": "oval-01",
+    "name": "Квадроовальная баня 4×3",
+    "price": 473000,
+    "category": "oval",
+    "image": "assets/oval-01.png",
+    "source": "image9.png"
+  },
+  {
+    "id": "oval-02",
+    "name": "Квадроовальная баня 4×6",
+    "price": 786000,
+    "category": "oval",
+    "image": "assets/oval-02.png",
+    "source": "image9.png"
+  },
+  {
+    "id": "house-01",
+    "name": "Модуль 26",
+    "price": 1474000,
+    "category": "house",
+    "image": "assets/house-01.png",
+    "source": "image10.png"
+  },
+  {
+    "id": "house-02",
+    "name": "Модуль 27",
+    "price": 1142000,
+    "category": "house",
+    "image": "assets/house-02.png",
+    "source": "image10.png"
+  },
+  {
+    "id": "house-03",
+    "name": "Модуль 31",
+    "price": 2081000,
+    "category": "house",
+    "image": "assets/house-03.png",
+    "source": "image10.png"
+  },
+  {
+    "id": "house-04",
+    "name": "Модуль 38",
+    "price": 1579000,
+    "category": "house",
+    "image": "assets/house-04.png",
+    "source": "image10.png"
+  },
+  {
+    "id": "house-05",
+    "name": "Модуль 56",
+    "price": 2352000,
+    "category": "house",
+    "image": "assets/house-05.png",
+    "source": "image10.png"
+  }
+]
